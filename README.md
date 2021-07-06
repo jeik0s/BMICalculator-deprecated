@@ -15,4 +15,5 @@ https://www.geeksforgeeks.org/dart-const-and-final-keyword/ <br />
 
 <h6>Additional</h6>
 Key constructor: https://api.flutter.dev/flutter/foundation/Key-class.html </br>
-null safety parameters: https://stackoverflow.com/questions/54444474/make-function-parameter-optional-in-custom-widget-flutter <br>
+Null safety parameters: https://stackoverflow.com/questions/54444474/make-function-parameter-optional-in-custom-widget-flutter <br>
+Ternary operation https: https://alvinalexander.com/flutter/dart-ternary-operator-syntax-examples/ <br />
